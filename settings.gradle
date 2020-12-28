@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "CPSC.411-01.Midterm.Question2"
